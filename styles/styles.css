@@ -22,3 +22,18 @@
     font-size: 20px;
     line-height: 35px;
 }
+
+/* Skills section styling */
+.skills {
+    background-color: aquamarine;
+    width: 60%;
+    box-sizing: border-box;
+    border: 5px solid black;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: #f7f7f7;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    line-height: 30px;
+}
