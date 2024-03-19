@@ -1,3 +1,4 @@
+/* Header section styling */
 .header {
     background-color: rgb(79, 76, 76);
     margin: 0;
@@ -7,4 +8,17 @@
     color: white;
     text-align: center;
     padding: 60px 0;
+}
+
+/* Introduction section styling */
+.introduction {
+    text-align: center;
+    background-color: rgb(44, 6, 6);
+    padding: 40px;
+    margin-top: 0px;
+}
+.introduction p {
+    color: aliceblue;
+    font-size: 20px;
+    line-height: 35px;
 }
